@@ -4,6 +4,10 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/svelte-vite-quickstart?include_prereleases=&sort=semver&color=blue)](https://github.com/MichaelCurrin/svelte-vite-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org "Go to Node.js homepage")
+[![Package - svelte](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/svelte-vite-quickstart/dev/svelte?logo=svelte&logoColor=white&color=blue)](https://www.npmjs.com/package/svelte)
+[![Package - vite](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/svelte-vite-quickstart/dev/vite?logo=vite&logoColor=white&color=blue)](https://www.npmjs.com/package/vite)
+
 
 ## Template
 
