@@ -9,6 +9,13 @@
 [![Package - vite](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/svelte-vite-quickstart/dev/vite?logo=vite&logoColor=white&color=blue)](https://www.npmjs.com/package/vite)
 
 
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" width="400">
+</div>
+
+
 ## Template
 
 <div align="center">
