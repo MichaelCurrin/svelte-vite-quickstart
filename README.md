@@ -16,7 +16,7 @@
 </div>
 
 
-## Template
+## Create a Svelte project
 
 <div align="center">
 
@@ -55,8 +55,8 @@ $ npm run build
 
 ## Resources
 
-- [Svelte](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/svelte/)
-- [Vite](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/bundlers/vite.html)
+- [Svelte](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/svelte/) in Dev Resources.
+- [Vite](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/bundlers/vite.html) in Dev Resources.
 
 
 ## License
